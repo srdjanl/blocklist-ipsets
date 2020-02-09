@@ -1,0 +1,194 @@
+[
+	{
+		"code": "AE",
+		"value": 3072
+	},
+	{
+		"code": "AFRINIC",
+		"value": 2080256
+	},
+	{
+		"code": "APNIC",
+		"value": 2857472
+	},
+	{
+		"code": "AR",
+		"value": 1792
+	},
+	{
+		"code": "AT",
+		"value": 6400
+	},
+	{
+		"code": "BA",
+		"value": 4096
+	},
+	{
+		"code": "BG",
+		"value": 1024
+	},
+	{
+		"code": "BR",
+		"value": 1536
+	},
+	{
+		"code": "CH",
+		"value": 3072
+	},
+	{
+		"code": "CL",
+		"value": 3328
+	},
+	{
+		"code": "CO",
+		"value": 10240
+	},
+	{
+		"code": "CR",
+		"value": 256
+	},
+	{
+		"code": "CW",
+		"value": 4096
+	},
+	{
+		"code": "CY",
+		"value": 3072
+	},
+	{
+		"code": "CZ",
+		"value": 1024
+	},
+	{
+		"code": "DE",
+		"value": 5120
+	},
+	{
+		"code": "DO",
+		"value": 4096
+	},
+	{
+		"code": "ES",
+		"value": 7424
+	},
+	{
+		"code": "FI",
+		"value": 1024
+	},
+	{
+		"code": "FR",
+		"value": 9472
+	},
+	{
+		"code": "GB",
+		"value": 15360
+	},
+	{
+		"code": "GR",
+		"value": 768
+	},
+	{
+		"code": "HN",
+		"value": 2048
+	},
+	{
+		"code": "IE",
+		"value": 1024
+	},
+	{
+		"code": "IQ",
+		"value": 4096
+	},
+	{
+		"code": "IR",
+		"value": 3072
+	},
+	{
+		"code": "IS",
+		"value": 1024
+	},
+	{
+		"code": "IT",
+		"value": 8960
+	},
+	{
+		"code": "JO",
+		"value": 20480
+	},
+	{
+		"code": "KW",
+		"value": 2048
+	},
+	{
+		"code": "KZ",
+		"value": 1024
+	},
+	{
+		"code": "LACNIC",
+		"value": 84224
+	},
+	{
+		"code": "LB",
+		"value": 5120
+	},
+	{
+		"code": "LU",
+		"value": 2048
+	},
+	{
+		"code": "LV",
+		"value": 2048
+	},
+	{
+		"code": "MX",
+		"value": 256
+	},
+	{
+		"code": "NI",
+		"value": 256
+	},
+	{
+		"code": "NL",
+		"value": 18944
+	},
+	{
+		"code": "PA",
+		"value": 24576
+	},
+	{
+		"code": "PE",
+		"value": 4096
+	},
+	{
+		"code": "PL",
+		"value": 768
+	},
+	{
+		"code": "PY",
+		"value": 512
+	},
+	{
+		"code": "RO",
+		"value": 1280
+	},
+	{
+		"code": "RU",
+		"value": 9216
+	},
+	{
+		"code": "SE",
+		"value": 1024
+	},
+	{
+		"code": "TR",
+		"value": 2048
+	},
+	{
+		"code": "UA",
+		"value": 4096
+	},
+	{
+		"code": "US",
+		"value": 12800
+	}
+]
